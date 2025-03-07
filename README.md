@@ -2,8 +2,8 @@
 
 
 
-
-- Linux Practice
+## Linux Practice
+[🔗 Linux Introduction ](Linux_Practice/LinuxIntroduction-JEVG.md).
 
 
 
